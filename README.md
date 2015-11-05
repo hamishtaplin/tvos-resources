@@ -8,3 +8,5 @@ A collection of resources for the Apple TV 4 including apps that can be installe
 A proof of concept Apple TV app to access on demand programmes from the BBC.
 ### [Provenance](https://github.com/jasarien/Provenance)
 An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA. 
+### [StreamCenter](https://github.com/StreamCenter/StreamCenter)
+tvOS project that aims at providing various video feeds to the AppleTV. 
