@@ -1,4 +1,4 @@
-# Apple TV 4 Resources
+# tvOS Resources
 
 A collection of resources for the Apple TV 4 including apps that can be installed via "side-loading" and helpful articles.
 
