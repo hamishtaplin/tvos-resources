@@ -18,3 +18,8 @@ CouchPotatoTV is a [Couch Potato](https://couchpota.to/) client for Apple TV.
 A Popcorntime client.
 ### [OwnChannel](https://github.com/kane2931/ownchannel)
 Apple TV (TVOS) Template to create your own Live TV channel.
+
+## Resources
+
+### [Apple TV: how to play classic Nintendo and Sega games!](https://www.youtube.com/watch?v=xJ_JAwxur-Q)
+A useful video on how to sideload an app.
