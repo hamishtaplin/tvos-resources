@@ -15,4 +15,6 @@ tvOS project that aims at providing various video feeds to the AppleTV.
 ### [CouchPotatoTV](http://code.robblewis.me/CouchPotatoTV/)
 CouchPotatoTV is a [Couch Potato](https://couchpota.to/) client for Apple TV.
 ### [SiongTV](https://github.com/siong1987/siongTime-tvos)
-A Popcorntime client
+A Popcorntime client.
+### [OwnChannel](https://github.com/kane2931/ownchannel)
+Apple TV (TVOS) Template to create your own Live TV channel.
