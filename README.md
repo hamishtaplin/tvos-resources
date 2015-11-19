@@ -22,8 +22,12 @@ A Popcorntime client.
 Apple TV (TVOS) Template to create your own Live TV channel.
 ### [YouPornViewer](https://github.com/kimiko88/Tvos-YouPornViewer)
 A simple tvOS and iOS Application to see youporn video.
+### [tvOSBrowser](https://github.com/steventroughtonsmith/tvOSBrowser)
+A web-browser for tvOS.
 
 ## Resources
 
 ### [Apple TV: how to play classic Nintendo and Sega games!](https://www.youtube.com/watch?v=xJ_JAwxur-Q)
 A useful video on how to sideload an app.
+### [http://www.idownloadblog.com/2015/11/06/mame-arcade-games-apple-tv/](How to play MAME arcade games on Apple TV)
+Article with instructions on sideloading MAME.
