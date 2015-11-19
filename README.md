@@ -29,5 +29,5 @@ A web-browser for tvOS.
 
 ### [Apple TV: how to play classic Nintendo and Sega games!](https://www.youtube.com/watch?v=xJ_JAwxur-Q)
 A useful video on how to sideload an app.
-### [http://www.idownloadblog.com/2015/11/06/mame-arcade-games-apple-tv/](How to play MAME arcade games on Apple TV)
+### [How to play MAME arcade games on Apple TV](http://www.idownloadblog.com/2015/11/06/mame-arcade-games-apple-tv/)
 Article with instructions on sideloading MAME.
