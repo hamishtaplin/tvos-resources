@@ -16,6 +16,8 @@ An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, 
 tvOS project that aims at providing various video feeds to the AppleTV. 
 ### [CouchPotatoTV](http://code.robblewis.me/CouchPotatoTV/)
 CouchPotatoTV is a [Couch Potato](https://couchpota.to/) client for Apple TV.
+### [PopcornTimeTV](https://github.com/pepibumur/PopcornTimeTV)
+Popcorn Time for Apple TV
 ### [SiongTV](https://github.com/siong1987/siongTime-tvos)
 A Popcorntime client.
 ### [OwnChannel](https://github.com/kane2931/ownchannel)
