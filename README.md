@@ -4,6 +4,8 @@ A collection of resources for the Apple TV 4 including apps that can be installe
 
 ## Apps
 
+### [Sickbeard tvOS](https://github.com/hamishtaplin/sickbeard-tvos)
+A (WIP) Sickbeard client for tvOS.
 ### [Aerial](https://github.com/okofish/aerial)
 A viewer for the Apple TV's Aerial screensavers that lets you choose which screensaver you want to view. It dynamically updates the list of videos from Apple's servers. All videos are streamed on-the-fly, so disk usage is minimal.
 ### [Auntie Player](https://github.com/Auntie-Player/apple-tv)
@@ -34,3 +36,11 @@ A useful video on how to sideload an app.
 ### [How to play MAME arcade games on Apple TV](http://www.idownloadblog.com/2015/11/06/mame-arcade-games-apple-tv/)
 Article with instructions on sideloading MAME.
 ### [Curated list of tutorials and sample apps for tvOS](https://github.com/sanketfirodiya/tvOS)
+A List of tutorials, sample apps and articles.
+
+## Developer Resources
+
+### [ATVJS](https://github.com/emadalam/atvjs)
+Blazing fast Apple TV application development using pure JavaScript
+### [TVML Catalog using ATVJS](https://github.com/emadalam/tvml-catalog-using-atvjs)
+Port of the TVML Catalog Sample Code re-written using atvjs
