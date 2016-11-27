@@ -46,3 +46,5 @@ A List of tutorials, sample apps and articles.
 Blazing fast Apple TV application development using pure JavaScript
 ### [TVML Catalog using ATVJS](https://github.com/emadalam/tvml-catalog-using-atvjs)
 Port of the TVML Catalog Sample Code re-written using atvjs
+### [TVDML](https://github.com/a-ignatov-parc/tvdml-app-boilerplate)
+Small library for creating declarative apps for tvOS with TVML and TVJS
