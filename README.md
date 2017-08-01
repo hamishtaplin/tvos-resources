@@ -30,6 +30,9 @@ Apple TV (TVOS) Template to create your own Live TV channel.
 A simple tvOS and iOS Application to see youporn video.
 ### [tvOSBrowser](https://github.com/steventroughtonsmith/tvOSBrowser)
 A web-browser for tvOS.
+### [iDeveloper Guru](https://itunes.apple.com/us/app/ideveloper-guru/id1233858865)
+The Best Videos for iDevices Development!
+And not only for beginners.
 
 ## Resources
 
