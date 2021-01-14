@@ -20,7 +20,7 @@ Remake of Nintendo's Octopus Game & Watch device (OC-22) for Apple TV 4.
 tvOS project that aims at providing various video feeds to the AppleTV. 
 ### [CouchPotatoTV](http://code.robblewis.me/CouchPotatoTV/)
 CouchPotatoTV is a [Couch Potato](https://couchpota.to/) client for Apple TV.
-### [PopcornTimeTV](https://github.com/pepibumur/PopcornTimeTV)
+### [PopcornTimeTV](https://github.com/PopcornTimeTV/PopcornTimeTV)
 Popcorn Time for Apple TV
 ### [SiongTV](https://github.com/siong1987/siongTime-tvos)
 A Popcorntime client.
